@@ -1,3 +1,10 @@
+# Solution
+
+Endpoint URL: (http://image-filter-starter-code-dev2.us-east-2.elasticbeanstalk.com/filteredimage?image_url=”Test any Image URL here”)
+My Test Sample In Postman: (http://image-filter-starter-code-dev2.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA11FGVu.img?w=1224&h=608&q=90&m=6&f=jpg&u=t)
+
+
+
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
